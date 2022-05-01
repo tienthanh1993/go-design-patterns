@@ -11,7 +11,7 @@ Golang design patterns and use case
 - [sync.Mutex based approach](creational/singleton/mutexbased.go)
 - [sync.Once based approach](creational/singleton/oncebased.go)
 
-#### Builder
+#### [Builder](creational/builder)
 
 - [Character builder](creational/builder/builder.go)
 
