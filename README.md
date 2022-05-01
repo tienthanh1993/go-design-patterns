@@ -13,6 +13,8 @@ Golang design patterns and use case
 
 #### Builder
 
+- [Character builder](creational/builder/builder.go)
+
 #### Factory
 
 #### Prototype
