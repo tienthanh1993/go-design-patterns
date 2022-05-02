@@ -15,7 +15,9 @@ Golang design patterns and use case
 
 - [Character builder](creational/builder/builder.go)
 
-#### Factory
+#### [Builder](creational/factory)
+
+- [Vehicle factory](creational/factory/factory.go)
 
 #### Prototype
 
