@@ -19,7 +19,9 @@ Golang design patterns and use case
 
 - [Animal factory](creational/factory/factory.go)
 
-#### Prototype
+#### [Prototype](creational/prototype)
+
+- [Animal prototype](creational/prototype/prototype.go)
 
 ### Structural
 
