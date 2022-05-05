@@ -21,11 +21,13 @@ Golang design patterns and use case
 
 #### [Prototype](creational/prototype)
 
-- [Animal prototype](creational/prototype/prototype.go)
+- [Forum prototype](creational/prototype/prototype.go)
 
 ### Structural
 
-#### Adapter
+#### [Adapter](structural/adapter)
+
+- [Wizard Adapter](structural/adapter/adapter.go)
 
 #### Bridge
 
